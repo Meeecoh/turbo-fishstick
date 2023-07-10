@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbWeather",
+      "IbHeart",
+      "IbChevronDoubleRight",
+      "IbAcademicBook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Lore": "IbAcademicBook",
+  "Code": "IbChevronDoubleRight",
+  "Characters": "IbHeart",
+  "BG": "IbWeather"
+}

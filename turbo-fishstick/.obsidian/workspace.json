@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "b8060c9411a99077",
+    "type": "split",
+    "children": [
+      {
+        "id": "78fae11b292c96e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3908b6e05ce22dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Osida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30a15698a6c1921c",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b52f7eb11bd97f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cebbb18e65a444b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33581f4bb6f4c49f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d60a9fd6d039fda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "97c63d16c4869fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d09f07ba2085f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "055a1dff830531c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Osida.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2ccb8aaf64e6eaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Osida.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca530abffc4989c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05c837ef12a6c19c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Osida.md"
+              }
+            }
+          },
+          {
+            "id": "5339ac5af53c87c3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3908b6e05ce22dce",
+  "lastOpenFiles": [
+    "Code/Gameplay.md",
+    "Characters/Osida.md",
+    "Overview.md",
+    "Code/Game 1.md",
+    "Characters/Mifa.md",
+    "Characters/Fenix.md",
+    "BG",
+    "BG",
+    "Code",
+    "Lore",
+    "Characters"
+  ]
+}
